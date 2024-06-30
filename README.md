@@ -6,6 +6,8 @@ An archive of games built on the Unity Web Player.
 
 This repository aims to preserve old games built on the now deprecated Unity Web Player, which was widely used in older browser games. As NPAPI is universally unsupported and many browser game hosting websites are deleting these files from their servers, this archive is an effort to save these games. Currently, all files are sourced from Y8.com's servers, as it is one of the few websites that still hosts these files.
 
+A copy of a software called "GameLoad" is also bundled with this archive. This program lets you play these web player games locally.
+
 ## How to Archive Your Own Files
 
 ### Prerequisites
